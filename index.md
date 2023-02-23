@@ -5,3 +5,7 @@ This blog is named after 1995's 3D pinball: Space Cadet and Dead Space by Viscer
 So if as a human you feel terror of vastness and the unknown, don't worry, go with the flow.
 
 Tilt hard the playground and stomp on space zombies. 
+
+![](_images/dead-space.gif)
+
+![](_images/3D_Pinball.png)
