@@ -10,7 +10,9 @@ Tilt hard the playground and stomp on space zombies.
 
 ![](/images/3D_Pinball.png)
 
-Oh and also this Kyuss piece was in the back of my mind
+Oh and also this Kyuss piece was in the back of my mind:
+
+![](/images/Kyuss - Space Cadet.mp4)
 
 
 
