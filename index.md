@@ -6,6 +6,6 @@ So if as a human you feel terror of vastness and the unknown, don't worry, go wi
 
 Tilt hard the playground and stomp on space zombies. 
 
-![]("/images/dead-space.gif")
+![](/images/dead-space.gif)
 
-![]("/images/3D_Pinball.png")
+![](/images/3D_Pinball.png)
