@@ -1,5 +1,7 @@
-Here you can say lots of fun things about your site.
+Questioning about the texture of reality, society and human nature can be seen as getting lost in space. 
 
-Maybe say a some things about yourself.
+This blog is named after 1995's 3D pinball: Space Cadet and Dead Space by Visceral Games.
 
-Or maybe what you plan to blog about.
+So if as a human you feel terror of vastness and the unknown, don't worry, go with the flow.
+
+Tilt hard the playground and stomp on space zombies. 
