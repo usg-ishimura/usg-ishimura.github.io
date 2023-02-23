@@ -12,7 +12,10 @@ Tilt hard the playground and stomp on space zombies.
 
 Oh and also this Kyuss piece was in the back of my mind:
 
-![](/images/Kyuss - Space Cadet.mp4)
+<video width="320" height="240" controls>
+  <source src="/images/Kyuss - Space Cadet.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
 
 
 
