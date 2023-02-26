@@ -1,11 +1,11 @@
 ---
 author: "John Doe"
 facebook_username: "fasfgfh"
-twitter_username: "fsgdsfhadh"
+twitter_username: "usg_ishimur4"
 google_username: "dfasfgasf"
 linkedin_username: "fasfgsafhah"
 instagram_username: "fasfgashf"
-github_username: "fgasgasfhs"
+github_username: "usg-ishimura"
 ---
 
 ## Blog Post Title From First Header
