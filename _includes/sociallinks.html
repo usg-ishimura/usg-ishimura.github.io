@@ -11,10 +11,22 @@
 <span>Follow {{ author }} on: </span>
 <!-- Add font awesome icons -->
 <div id="social-buttons">
+{%- if page.facebook_username -%}
 <span class="fa fa-facebook"></span><a> {{page.facebook_username}}</a>
+{%- end if -%}
+{%- if page.twitter_username -%}
 <span class="fa fa-twitter"></span><a> {{page.twitter_username}}</a>
+{%- end if -%}
+{%- if page.google_username -%}
 <span class="fa fa-google"></span><a> {{page.google_username}}</a>
+{%- end if -%}
+{%- if page.linkedin_username -%}
 <span class="fa fa-linkedin"></span><a> {{page.linkedin_username}}</a>
+{%- end if -%}
+{%- if page.instagram_username -%}
 <span class="fa fa-instagram"></span><a> {{page.instagram_username}}</a>
+{%- end if -%}
+{%- if page.github_username -%}
 <span class="fa fa-github"></span><a> {{page.github_username}}</a>
+{%- end if -%}
 </div>
