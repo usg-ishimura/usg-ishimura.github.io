@@ -1,6 +1,5 @@
 ---
 author: "John Doe"
-twitter_username: "jack"
 ---
 
 ## Blog Post Title From First Header
