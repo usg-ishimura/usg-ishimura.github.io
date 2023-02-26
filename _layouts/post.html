@@ -24,7 +24,9 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
     {% include sociallinks.html %}
-    {% include navlinks.html %}
+    <div class="share-links">
+      {% include navlinks.html %}
+    </div>
   </div>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
