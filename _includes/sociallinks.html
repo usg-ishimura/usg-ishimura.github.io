@@ -1,7 +1,14 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+  #share-buttons {display: inline-block; vertical-align: middle; }
+  #share-buttons:after {content: ""; display: block; clear: both;}
+  #share-buttons > div {position: relative; text-align: left; height: 36px; width: 32px; float: left; text-align: center;}
+  #share-buttons > div > svg {height: 16px; fill: #d5d5d5; margin-top: 10px;}
+  #share-buttons > div:hover {cursor: pointer;}
+</style>
 <span>Follow {{ author }} on: </span>
 <!-- Add font awesome icons -->
-<div>
+<div id="share-buttons">
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-twitter"></a>
 <a href="#" class="fa fa-google"></a>
