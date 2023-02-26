@@ -8,25 +8,27 @@
   #social-buttons > a:hover {color: #5A5A5A; cursor:pointer;}
   #social-buttons > span {color: #808080;}
 </style>
+{%- if page.facebook_username or page.twitter_username or page.google_username or page.linkedin_username or page.instagram_username or page.github_username -%}
 <span>Follow {{ author }} on: </span>
+{%- endif -%}
 <!-- Add font awesome icons -->
 <div id="social-buttons">
 {%- if page.facebook_username -%}
 <span class="fa fa-facebook"></span><a> {{page.facebook_username}}</a>
-{%- end if -%}
+{%- endif -%}
 {%- if page.twitter_username -%}
 <span class="fa fa-twitter"></span><a> {{page.twitter_username}}</a>
-{%- end if -%}
+{%- endif -%}
 {%- if page.google_username -%}
 <span class="fa fa-google"></span><a> {{page.google_username}}</a>
-{%- end if -%}
+{%- endif -%}
 {%- if page.linkedin_username -%}
 <span class="fa fa-linkedin"></span><a> {{page.linkedin_username}}</a>
-{%- end if -%}
+{%- endif -%}
 {%- if page.instagram_username -%}
 <span class="fa fa-instagram"></span><a> {{page.instagram_username}}</a>
-{%- end if -%}
+{%- endif -%}
 {%- if page.github_username -%}
 <span class="fa fa-github"></span><a> {{page.github_username}}</a>
-{%- end if -%}
+{%- endif -%}
 </div>
