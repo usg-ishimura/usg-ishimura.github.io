@@ -40,7 +40,9 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
-Json snippet:
+
+#### Json Snippet
+
 ```json
 {
   "721": {
@@ -68,3 +70,7 @@ Json snippet:
   }
 }
 ```
+```python
+print("Hello World!")
+```
+
