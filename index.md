@@ -12,7 +12,7 @@ Tilt hard the playground and stomp on space zombies.
 
 Space Cadet is also the name of a Kyuss piece that was in my mind as well when i tought of this blog.
 
-<video width="100%" height="auto" controls>
+<video width="100%" height="auto" controls poster="https://img.youtube.com/vi/aW8nFgRwnoA/0.jpg">
   <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
