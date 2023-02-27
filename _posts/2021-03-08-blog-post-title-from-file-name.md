@@ -6,6 +6,7 @@ google_username: "dfasfgasf"
 linkedin_username: "fasfgsafhah"
 instagram_username: "fasfgashf"
 github_username: "usg-ishimura"
+tags: PowerShell, JSON
 ---
 
 ## Blog Post Title From First Header
