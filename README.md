@@ -25,7 +25,7 @@ github_username: johndoe
 tags: template-post 
 ---
 ```
-Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't proivde that social media username. Type just one tag with no spaces that describe your post. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
+Replace `John Doe` with your name, and your social media usernames, social media usernames are not mandatory they are there so people can follow you if interested in your content, delete the specific social media line if you won't provide that social media username. Type just one tag with no spaces that describe your post. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
 
 Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
