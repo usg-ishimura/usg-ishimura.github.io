@@ -10,3 +10,20 @@ name it `YYYY-MM-DD-blog-post-name.md` where `YYYY` is current year, `MM` curren
 don't use future dates because if so the post won't show, `blog-post-name` could be any name you want but every word must
 be separated by `-`.
 
+---
+
+Post content must start with:
+```
+---
+author: John Doe
+facebook_username: john.doe
+twitter_username: johndoe
+google_username: johndoe
+linkedin_username: johndoe
+instagram_username: johndoe
+github_username: johndoe
+tags: template-post 
+---
+```
+Replace John Doe with your name, and your social media usernames, type just one tag with no spaces that describe your content 
+
