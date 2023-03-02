@@ -29,5 +29,5 @@ Replace **John Doe** with your name, and your social media usernames, type just 
 
 Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
-You can embedd images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
+You can embed images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
 
