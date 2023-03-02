@@ -25,5 +25,5 @@ github_username: johndoe
 tags: template-post 
 ---
 ```
-Replace John Doe with your name, and your social media usernames, type just one tag with no spaces that describe your content 
+Replace **John Doe** with your name, and your social media usernames, type just one tag with no spaces that describe your content. You can write blog posts in whatever language you want, content will be indexed and shown on search engines. 
 
