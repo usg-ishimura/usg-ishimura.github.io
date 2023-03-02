@@ -1,7 +1,7 @@
 # Welcome to Community Logs!
 
-This place is open to people who want to express themselves with their unique style and create blog posts of what is on their mind. Could be articles, shitposts, self reflections or technical guides. 
-Any idea can come to life on Community Logs following posting rules.
+This place is open to people who want to express themselves with their own style and create blog posts of what is on their mind. Could be articles, shitposts, self reflections or technical guides. 
+Following posting rules any idea can come to life on Community Logs.
 
 ![concepts](https://user-images.githubusercontent.com/103458862/222515695-bd70c7f5-3e8c-471a-b5d3-a37c48587016.jpeg)
 
@@ -31,3 +31,8 @@ Posts are written in markdown, if you don’t know it, don’t worry, there’s 
 
 You can embed images and gifs directly by dropping them in github editor while you write the post and see how the content will be displayed by clicking on the preview tab.
 
+## Creating blog post demo
+
+https://user-images.githubusercontent.com/126524087/222552453-678b503a-f68f-471d-9623-9edb102605a5.mp4
+
+You can then find your posts at [https://communitylogs.github.io](https://communitylogs.github.io).
