@@ -25,5 +25,7 @@ github_username: johndoe
 tags: template-post 
 ---
 ```
-Replace **John Doe** with your name, and your social media usernames, type just one tag with no spaces that describe your content. You can write blog posts in whatever language you want, content will be indexed and shown on search engines. 
+Replace **John Doe** with your name, and your social media usernames, type just one tag with no spaces that describe your content. You can write blog posts in whatever language you want, content will be indexed and shown on search engines.
+
+Posts are written in markdown, if you don’t know it, don’t worry, there’s not much to it. See [this post by GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to learn some of the basics.
 
