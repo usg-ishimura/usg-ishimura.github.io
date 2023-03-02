@@ -6,7 +6,7 @@ google_username: johndoe
 linkedin_username: johndoe
 instagram_username: johndoe
 github_username: johndoe
-tags: "jekyll python json powershell" 
+tags: "jekyll python powershell" 
 ---
 
 ## Blog Post Title From First Header
@@ -32,37 +32,7 @@ ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
-
-#### Json Snippet
-
-```json
-{
-  "721": {
-    "bc8cbfe404d5d4b70ab68290c4ecda517c27a7a547aa367ae16c8490": {
-      "dCNFTvsCSP": {
-        "name": "Stuck in 305",
-        "image": "ipfs://QmVMC5CcSKtqwCnniY348AcGw8aHtJqazodDMXYqoXJgtX/dvsc.jpg",
-        "files": [
-          {
-            "name": "Cardano BOT",
-            "mediaType": "text/html",
-            "src": "ipfs://QmVMC5CcSKtqwCnniY348AcGw8aHtJqazodDMXYqoXJgtX/c_b.html"
-          },
-          {
-            "name": "Description",
-            "mediaType": "text/html",
-            "src": "ipfs://QmVMC5CcSKtqwCnniY348AcGw8aHtJqazodDMXYqoXJgtX/dsc.html"
-          }
-        ],
-        "Running dynamic cnft on ipfs gateway": "ipfs://QmVMC5CcSKtqwCnniY348AcGw8aHtJqazodDMXYqoXJgtX/c_b.html",
-        "Firefox mheadercontrol add on": "ipfs://QmVMC5CcSKtqwCnniY348AcGw8aHtJqazodDMXYqoXJgtX/f_r.html",
-        "chrome always disable csp add on": "ipfs://QmVMC5CcSKtqwCnniY348AcGw8aHtJqazodDMXYqoXJgtX/c_r.html"
-      }
-    }
-  }
-}
-```
-#### Python Hello World
+#### Python CORS Server
 
 ```python
 #!/usr/bin/env python3
