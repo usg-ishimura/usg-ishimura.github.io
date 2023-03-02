@@ -1,12 +1,12 @@
 ---
-author: "John Doe"
-facebook_username: "fasfgfh"
-twitter_username: "usg_ishimur4"
-google_username: "dfasfgasf"
-linkedin_username: "fasfgsafhah"
-instagram_username: "fasfgashf"
-github_username: "usg-ishimura"
-tags: PowerShell JSON
+author: John Doe
+facebook_username: john.doe
+twitter_username: johndoe
+google_username: johndoe
+linkedin_username: johndoe
+instagram_username: johndoe
+github_username: johndoe
+tags: "jekyll python json powershell" 
 ---
 
 ## Blog Post Title From First Header
@@ -65,5 +65,15 @@ ForEach ($thing in $things) {
 #### Python Hello World
 
 ```python
-print("Hello World!")
+#!/usr/bin/env python3
+from http.server import HTTPServer, SimpleHTTPRequestHandler, test
+import sys
+
+class CORSRequestHandler (SimpleHTTPRequestHandler):
+    def end_headers (self):
+        self.send_header('Access-Control-Allow-Origin', '*')
+        SimpleHTTPRequestHandler.end_headers(self)
+
+if __name__ == '__main__':
+    test(CORSRequestHandler, HTTPServer, port=int(sys.argv[1]) if len(sys.argv) > 1 else 8000)
 ```
