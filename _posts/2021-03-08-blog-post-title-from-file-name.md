@@ -6,7 +6,7 @@ google_username: johndoe
 linkedin_username: johndoe
 instagram_username: johndoe
 github_username: johndoe
-tags: "jekyll python powershell" 
+tags: template-post 
 ---
 
 ## Blog Post Title From First Header
@@ -26,13 +26,12 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 ```powershell
 Write-Host "This is a powershell Code block";
 
-# There are many other languages you can use, but the style has to be loaded first
-
+# There are many other languages you can use
 ForEach ($thing in $things) {
     Write-Output "It highlights it using the GitHub style"
 }
 ```
-#### Python CORS Server
+#### Some Python Code
 
 ```python
 #!/usr/bin/env python3
