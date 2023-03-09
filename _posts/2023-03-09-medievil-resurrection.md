@@ -15,7 +15,8 @@ Il nome dello stregone malvagio`zarok` mi ricordava quello di una spada fantasy 
 che è la prima spada di Eragon dall'omonimo libro di Cristopher Paolini.
 
 ![Zarok](https://user-images.githubusercontent.com/103458862/224092993-c443f6c6-5353-49e4-b2ca-daf7c0e46d65.png)
-![zarroc](https://user-images.githubusercontent.com/103458862/224093023-a60ba686-2a47-4f16-a55c-513837a99733.jpg)
+
+![zarroc](https://user-images.githubusercontent.com/103458862/224100148-f17d057d-deea-4476-92b0-8f3738d22cd0.jpg)
 
 Nel gioco lo stregone ha risvegliato schiere di non morti che il resuscitato capitano della guardia reale 
 **Sir Daniel Fortesque** dovrà sconfiggere per entrare nella cerchia degli eroi immortali.
