@@ -12,7 +12,7 @@ image: https://user-images.githubusercontent.com/103458862/224092725-381db33e-93
 Medievil e il suo stile gotico mi hanno sempre affascinato, 
 ho scelto di giocarci subito quando nel 2005 ho avuto una playstation portatile tra le mani. 
 Il nome dello stregone malvagio `zarok` mi ricordava quello di una spada fantasy dalla lama rossa che possiedo ancora `zar'roc` 
-che è la prima spada di Eragon dall'omonimo libro di Cristopher Paolini.
+che è la prima spada di Eragon personaggio dell'omonimo libro di Cristopher Paolini.
 
 ![Zarok](https://user-images.githubusercontent.com/103458862/224092993-c443f6c6-5353-49e4-b2ca-daf7c0e46d65.png)
 
