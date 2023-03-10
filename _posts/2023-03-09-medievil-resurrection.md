@@ -12,7 +12,7 @@ image: https://user-images.githubusercontent.com/103458862/224092725-381db33e-93
 Medievil e il suo stile gotico mi hanno sempre affascinato, 
 ho scelto di giocarci subito quando nel 2005 ho avuto una playstation portatile tra le mani. 
 Il nome dello stregone malvagio `zarok` mi ricordava quello di una spada fantasy dalla lama rossa che possiedo ancora `zar'roc`: 
-la prima spada di Eragon, protagonista dell'omonimo libro di Cristopher Paolini.
+la prima spada di Eragon, appartenente all'immaginario del ciclo dell'eredità.
 
 ![Zarok](https://user-images.githubusercontent.com/103458862/224092993-c443f6c6-5353-49e4-b2ca-daf7c0e46d65.png)
 
@@ -26,7 +26,8 @@ che comunque hanno reso il gioco per me molto più godibile.
 Oggi scrivo una mini guida su come poterci giocare su un emulatore della PSP per PC, scaricando l'immagine ISO del gioco ed attivando i trucchi.
 
 ## Scaricare l'emulatore
-![ppsspp](https://user-images.githubusercontent.com/103458862/224093319-130bb1e9-fded-4294-8927-777a5cfd471c.jpg)
+
+![PPSSPP_logo svg](https://user-images.githubusercontent.com/103458862/224291576-91b9d61d-6bdc-43ad-bbd7-ce9ac33edb1f.png)
 
 Potete scaricare l'emulatore della PSP da questo link: [https://www.ppsspp.org/download](https://www.ppsspp.org/download), esiste anche la versione portatile del programma che io personalmente preferisco. 
 
