@@ -20,7 +20,7 @@ la prima spada di Eragon, appartenente all'immaginario del ciclo dell'eredità.
 
 Nel gioco lo stregone ha risvegliato schiere di non morti che il resuscitato capitano della guardia reale 
 **Sir Daniel Fortesque** dovrà sconfiggere per entrare nella cerchia degli eroi immortali.
-Il gioco era veramente clamoroso, i personaggi divertenti e grotteschi 
+Il gioco era clamoroso ma in alcuni momenti anche frustrante, i personaggi divertenti e grotteschi 
 ed il tono giustamente auto ironico. Non sono mai riuscito a finirlo senza l'ausilio dei trucchi
 che comunque hanno reso il gioco per me molto più godibile.
 Oggi scrivo una mini guida su come poterci giocare su un emulatore della PSP per PC, scaricando l'immagine ISO del gioco ed attivando i trucchi.
