@@ -32,7 +32,7 @@ Oggi scrivo una mini guida su come poterci giocare su un emulatore della PSP per
 Potete scaricare l'emulatore della PSP da questo link: [https://www.ppsspp.org/download](https://www.ppsspp.org/download), esiste anche la versione portatile del programma che io personalmente preferisco. 
 
 ## Scaricare l'immagine ISO del gioco
-A questo link potete scaricare il gioco ed estrarre l'archivio con il freeware 7zip: 
+A questo link potete scaricare il gioco ed estrarre l'archivio con il software gratuito 7zip: 
 [https://cdromance.com/psp/medievil-resurrection-eur-multi-5/](https://cdromance.com/psp/medievil-resurrection-eur-multi-5/)
 
 ## Caricare il gioco nell'emulatore
