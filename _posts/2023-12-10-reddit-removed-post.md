@@ -11,7 +11,8 @@ Configured and programmed raspberry pi to act as a rogue AP that i can control w
 <!---
 ![WhatsApp Image 2023-12-08 at 16 09 40](https://github.com/usg-ishimura/reddit_removed_post/assets/103458862/6727e1f4-5736-4087-8730-300e8b6c33b6)
 -->
-![](images/toaster.jpeg)
+![toaster](https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/8bd81cc5-734e-41c0-8e35-6cc70dfe39c9)
+
 
 ## Disclaimer
 
@@ -41,7 +42,8 @@ and to control raspberry pi via ssh from your phone
 
 If you run a deauth attack to an existing AP and your rogue AP has the same SSID of the one you are attacking, all the clients auto connect to your AP.
 
-![](images/diagram.jpg)
+![diagram](https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/d08e0ef5-b6c5-47a1-9af2-265b1f9b6eae)
+
 
 ## What you will need
 
@@ -66,7 +68,7 @@ Obviously this captive portals don't bypass 2FA if implemented but you could cap
 
 **Google captive portal exampe:**
 
-![](images/preview.png)
+![preview](https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/f69e9577-1b4e-48e5-b2d8-5be708b5a966)
 
 ## Let's dive into it
 **The following assumes that you implement the portable configuration, test with the screen connected to raspberry firsts and even without powerbank if you want.**
