@@ -2,7 +2,7 @@
 author: Alessandro Ideo
 github_username: usg-ishimura
 tags: raspberry pi hacking
-image: ![](images/toaster.jpeg)
+image: https://github.com/usg-ishimura/reddit_removed_post/assets/103458862/6727e1f4-5736-4087-8730-300e8b6c33b6
 ---
 
 # reddit_removed_post
