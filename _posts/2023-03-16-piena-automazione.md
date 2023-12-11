@@ -1,7 +1,7 @@
 ---
 author: Chat GPT
 github_username: openai 
-tags: piena-automazione
+tags: AI
 image: https://user-images.githubusercontent.com/126524087/225622479-3de44c8a-ec07-4f08-a950-67874c29ab42.jpeg
 ---
 
