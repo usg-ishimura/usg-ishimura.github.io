@@ -85,4 +85,6 @@ After you installed all the dependecies and cloned this repo to your raspberry, 
 
 When clients connect you should see the network traffic on the screen of your phone and if credentials are entered in the portal they are also going to appear on the screen within the first termux session.
 
+[<ins>https://github.com/usg-ishimura/reddit_removed_post</ins>](https://github.com/usg-ishimura/reddit_removed_post)
+
 **Happy hacking!**
