@@ -1,7 +1,7 @@
 ---
 author: Alessandro Ideo
 github_username: usg-ishimura
-tags: videogiochi-retro
+tags: videogames
 image: https://user-images.githubusercontent.com/103458862/224092725-381db33e-93a1-4ac1-a809-f984502a875b.png
 ---
 
