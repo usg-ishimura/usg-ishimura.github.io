@@ -5,7 +5,7 @@ tags: hacking
 image: https://github.com/usg-ishimura/reddit_removed_post/assets/103458862/6727e1f4-5736-4087-8730-300e8b6c33b6
 ---
 
-# reddit_removed_post
+# Reddit removed post
 Configured and programmed raspberry pi to act as a rogue AP that i can control wirelessly from my phone to launch wireless phishing attacks from everywhere.
 
 <!---
