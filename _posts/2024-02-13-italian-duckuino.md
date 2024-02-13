@@ -9,20 +9,20 @@ image: https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/a
 
 Some of my recent projects include: 
 
-## Self driving and IR controlled Arduino car as a toy for my cat
+### Self driving and IR controlled Arduino car as a toy for my cat
 
 ![WhatsApp Image 2024-02-13 at 15 09 03](https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/ecdb3725-5078-467a-b606-7b38b9de28a6)
 
-## Digispark italian duckuino
+### Digispark italian duckuino
 
-Digispark attiny85 can be programmed in C as a rubber ducky, here can be seen in action on a linux target
+Digispark ATTiny85 can be programmed in C as a rubber ducky, here can be seen in action on a linux target
 
-<video width="100%" height="auto" controls poster="https://img.youtube.com/vi/aW8nFgRwnoA/0.jpg">
+<video width="100%" height="auto" controls>
   <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
-The C windows payload for the DIY rubber ducky
+The *C* windows payload for the DIY rubber ducky
 
 ```c
 #include "DigiKeyboard.h"
@@ -53,7 +53,7 @@ void loop() {
 }
 ```
 
-And the python code for the reverse shell:
+And the *python* code for the reverse shell:
 
 ```python
 import os,socket,subprocess,threading;
