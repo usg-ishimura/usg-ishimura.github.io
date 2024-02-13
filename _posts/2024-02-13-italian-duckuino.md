@@ -17,8 +17,8 @@ Some of my recent projects include:
 
 Digispark ATTiny85 can be programmed in C as a rubber ducky, here can be seen in action on a linux target
 
-<video width="100%" height="auto" controls>
-  <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
+<video width="100%" height="auto" controls poster="https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/ae3c68f0-39e9-49c4-bb5c-07ef01d8fdfd">
+  <source src="https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/eab69685-c03f-42d9-84f9-8181bb52f951" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
 
