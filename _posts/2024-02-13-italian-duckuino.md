@@ -24,3 +24,12 @@ Digispark attiny85 can be programmed in C as a rubber ducky, here can be seen in
 
 Here the powershell windows payload for the DIY rubber ducky
 
+```powershell
+Write-Host "This is a powershell Code block";
+
+# There are many other languages you can use
+ForEach ($thing in $things) {
+    Write-Output "It highlights it using the GitHub style"
+}
+```
+
