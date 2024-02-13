@@ -17,5 +17,10 @@ Some of my recent projects include:
 
 Digispark attiny85 can be programmed in C as a rubber ducky, here can be seen in action on a linux target
 
-https://github.com/usg-ishimura/usg-ishimura.github.io/assets/103458862/a6f07de0-0bc8-4378-8b2b-e636a31f68d8
+<video width="100%" height="auto" controls poster="https://img.youtube.com/vi/aW8nFgRwnoA/0.jpg">
+  <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+Here the powershell windows payload for the DIY rubber ducky
 
