@@ -5,7 +5,7 @@ tags: logs
 image: https://github.com/user-attachments/assets/f913c6a2-45e2-4a73-8a03-6b10769887ac
 ---
 
-# Oltre i Geni: Il Paradosso della Coscienza Umana
+# Oltre i geni: il paradosso della coscienza umana
 
 Una delle mie ultime letture è *Il gene egoista* di Richard Dawkins, pubblicato nel 1976. L’autore, biologo evoluzionista britannico, propone una visione radicale: l’uomo non sarebbe altro che una “macchina da sopravvivenza” programmata per replicare i propri ospiti, i geni.  
 
