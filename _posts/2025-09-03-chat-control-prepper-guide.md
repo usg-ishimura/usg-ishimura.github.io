@@ -2,6 +2,7 @@
 author: Alessandro Ideo
 github_username: usg-ishimura
 tags: self-hosting
+image: https://github.com/user-attachments/assets/e50d5606-beb6-4d21-b3aa-5bc5347a0ac5
 ---
 
 # Chat control 2.0 prepper guide (just in case)
