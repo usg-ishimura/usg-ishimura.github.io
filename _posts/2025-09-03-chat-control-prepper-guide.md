@@ -31,7 +31,7 @@ ufw allow 5222
 ufw allow 5269
 ufw enable
 ```
-At http://domain.federation.org:9090 (a template domain name, you can choose yours) you can follow this setup wizard steps, it would be safer if you completed the setup locally and only then opened ports on firewall:
+At [http://domain.federation.org:9090](http://domain.federation.org:9090) (a template domain name, you can choose yours) you can follow this setup wizard steps, it would be safer if you completed the setup locally and only then opened ports on firewall:
 
 <img width="100%" height="auto" alt="Screenshot_20250813_182402" src="https://github.com/user-attachments/assets/783d2a2d-ab81-4cf0-8148-82f9b24ef9ee" />
 
@@ -43,7 +43,7 @@ At http://domain.federation.org:9090 (a template domain name, you can choose you
 
 <img width="100%" height="auto" alt="Screenshot_20250813_182608" src="https://github.com/user-attachments/assets/34f40ec4-a3aa-4cf9-a02e-22170853aa91" />
 
-Then from f-droid at this link https://f-droid.org/it/packages/eu.siacs.conversations/ you can download Conversations and register your username to the federation like so:
+Then from f-droid at this link [https://f-droid.org/it/packages/eu.siacs.conversations/](https://f-droid.org/it/packages/eu.siacs.conversations/) you can download Conversations and register your username to the federation like so:
 
 ![WhatsApp Image 2025-08-13 at 18 36 29](https://github.com/user-attachments/assets/4c5cae0f-5c7d-48d3-b090-488f48883fa9)
 
