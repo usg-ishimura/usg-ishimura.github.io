@@ -1,7 +1,3 @@
----
-title: "Alessandro Ideo – Space Cadet"
-description: "Thoughts, hacks & randomness – Internauts, beware!"
----
 Questioning about the texture of reality, society and human nature can be seen as getting lost in space. 
 
 This blog is named after 1995's 3D Pinball: Space Cadet and Dead Space by Visceral Games.
