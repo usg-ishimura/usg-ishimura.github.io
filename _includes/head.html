@@ -18,6 +18,16 @@
     DarkReader.auto( {brightness: 100, contrast: 90, sepia: 0} );
   </script>
   
+  <!-- overrides jekyll-seo-tag header title -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      const headerTitle = document.getElementsByClassName("site-title")[0];
+      if(headerTitle) {
+        headerTitle.innerHTML = "Space Cadet";
+      }
+    });
+  </script>
+  
   <!-- highlight.js support -->
   <!-- <link rel="stylesheet" href="/js/highlightjs/styles/github.css">
   <link rel="stylesheet" href="/js/highlightjs/styles/ssms.css" />
