@@ -16,7 +16,7 @@ Space Cadet è anche il nome di un brano dei Kyuss che avevo in testa quando ho 
   <source src="https://user-images.githubusercontent.com/103458862/221435341-da1ec07e-903d-4ed8-ba8d-e3d7a9163a5d.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video> 
-<h2 class="post-list-heading">Posts</h2>
+<h2 class="post-list-heading">Post</h2>
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
