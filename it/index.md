@@ -1,4 +1,4 @@
-Interrogarsi sulla trama della realtà, della società e della natura umana può essere visto come perdersi nello spazio.
+Interrogarsi sulla struttura della realtà, della società e della natura umana può essere visto come perdersi nello spazio.
 
 Questo blog prende il nome da 3D Pinball: Space Cadet del 1995 e Dead Space di Visceral Games.
 
