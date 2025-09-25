@@ -26,3 +26,4 @@ Space Cadet è anche il nome di un brano dei Kyuss che avevo in testa quando ho 
       </h3>
   </li>
 {% endfor %}
+<p class="rss-subscribe">iscriviti <a href="/feed.xml">tramite RSS</a></p>
