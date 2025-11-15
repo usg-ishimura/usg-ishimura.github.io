@@ -14,7 +14,7 @@ mi piace andare ai concerti e stare nella natura, io e le mie cuffie bluetooth a
 ### Perché questo blog
 
 Qui appunto hack, idee, riflessioni ed esperimenti.  
-È il mio spazio di **disordine creativo**, perché senza caos non succede mai nulla di interessante.
+È il mio spazio di **disordine creativo**, perché senza caos non succede mai niente di interessante.
 
 Se sei qui, probabilmente condividi almeno una delle mie passioni.  
 **Benvenuto a bordo.**
