@@ -4,7 +4,7 @@ title: About
 ---
 Ciao, sono **Alessandro Ideo**, aka *usg-ishimura* nel mondo dell'hacking e dell'open source.  
 Sperimento, costruisco, rompo e ricompongo: è sempre stato il mio modo di capire il mondo molto prima di farne un lavoro.  
-Professionalmente mi occupo di **IoT**, **firmware**, reti e sicurezza. Mi piace sporcarmi le mani e usare il pensiero laterale per risolvere problemi complessi.
+Professionalmente mi occupo di **IoT**, **firmware**, reti e sicurezza. Mi piace sporcarmi le mani e usare il pensiero laterale per affrontare sfide complesse.
 
 ### Chi sono, oltre la tecnica
 
