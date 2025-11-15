@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About
 ---
 Ciao, sono **Alessandro Ideo**, aka *usg-ishimura* nel mondo dell'hacking e dell'open source.  
