@@ -8,8 +8,9 @@ Professionalmente mi occupo di **IoT**, **firmware**, reti e sicurezza. Mi piace
 
 ### Chi sono, oltre la tecnica
 
-Fuori dal lavoro amo leggere saggi sulla **natura umana** e su come la tecnologia attraversa i nostri comportamenti;  
-mi piace andare ai concerti e stare nella natura, io e le mie cuffie bluetooth abbiamo percorso tanta strada insieme.
+Fuori dal lavoro amo leggere saggi sulla **natura umana** e su come la tecnologia attraversa i nostri comportamenti. 
+Mi sento nel mio posto quando sono a un concerto o nella natura.
+Ascolto musica mentre cammino, e per questo io e le mie cuffie abbiamo percorso tanta strada insieme.
 
 ### Perché questo blog
 
