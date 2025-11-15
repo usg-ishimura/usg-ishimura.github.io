@@ -10,7 +10,7 @@ Professionalmente mi occupo di **IoT**, **firmware**, reti e sicurezza. Mi piace
 
 Fuori dal lavoro amo leggere saggi sulla **natura umana** e su come la tecnologia attraversa i nostri comportamenti. 
 Mi sento nel mio posto quando sono a un concerto o nella natura.
-Ascolto musica mentre cammino, e per questo io e le mie cuffie wireless abbiamo percorso tanta strada insieme.
+Ascolto musica mentre cammino, io e le mie cuffie wireless abbiamo percorso tanta strada insieme.
 
 ### Perché questo blog
 
