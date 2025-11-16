@@ -9,7 +9,7 @@ Professionalmente mi occupo di **IoT**, **firmware**, reti e sicurezza. Mi piace
 ### Chi sono, oltre la tecnica
 
 Fuori dal lavoro amo leggere saggi sulla **natura umana** e su come la tecnologia attraversa i nostri comportamenti. 
-Mi sento nel mio posto quando sono a un concerto o nella natura.
+Mi sento nel mio posto quando sono a un concerto o disperso nella natura.
 Cammino con la musica in cuffia per rientrare nel flusso quando mi sento bloccato.
 
 ### Perché questo blog
