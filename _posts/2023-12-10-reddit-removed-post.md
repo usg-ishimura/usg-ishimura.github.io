@@ -89,4 +89,3 @@ When clients connect you should see the network traffic on the screen of your ph
 
 [<ins>https://github.com/usg-ishimura/reddit_removed_post</ins>](https://github.com/usg-ishimura/reddit_removed_post)
 
-[<ins>https://reddit.com/u/usg-ishimur4</ins>](https://reddit.com/u/usg-ishimur4)
