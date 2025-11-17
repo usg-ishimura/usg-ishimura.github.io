@@ -1,0 +1,14 @@
+---
+layout: none
+title: Portfolio
+---
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="refresh" content="0; url=/portfolio/">
+  <link rel="canonical" href="/portfolio/" />
+</head>
+<body>
+  <p>Redirecting to <a href="/portfolio/">Portfolio</a>...</p>
+</body>
+</html>
