@@ -24,7 +24,7 @@ I riferimenti e le certezze servono lo scopo di abituarsi, un giorno alla loro a
 Ed è forse questo che Major Tom ha scoperto: di poter fare affidamento su delle risorse che non sapeva consciamente di avere.
 
 <video width="100%" height="auto" controls poster="https://img.youtube.com/vi/iYYRH4apXDo/0.jpg">
-  <source src="images/space-oddity.mp4" type="video/mp4">
+  <source src="/images/space-oddity.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
