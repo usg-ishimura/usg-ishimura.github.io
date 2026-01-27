@@ -17,7 +17,7 @@ Bowie ha sempre giocato con l’ambiguità e questa lettura è un’alternativa 
 “Though I'm past one hundred thousand miles / I'm feeling very still / And I think my spaceship knows which way to go” 
 non sono le parole di un’anima persa ma di qualcuno che ha trovato una luce dentro di se proprio quando il buio è abbastanza vicino da poter inghiottire tutto.
 
-La separazione da ogni riferimento a questo punto è sana e fondamentale e diventa troppo tardi per voltarsi indietro e lasciarsi sfiorare dal pensiero del ritorno. 
+La separazione da ogni collegamento a questo punto è sana e fondamentale e diventa troppo tardi per voltarsi indietro e lasciarsi sfiorare dal pensiero del ritorno. 
 
 I riferimenti e le certezze servono lo scopo di abituarsi, un giorno alla loro assenza. 
 
