@@ -16,29 +16,29 @@ Here a picture of my setup:
 After flashing the "Dumb Thing" vulnerable IoT firmware onto a Raspberry Pi Zero 2 W and configuring `/etc/wpa_supplicant.conf` to join my home network via UART shell, the Pi failed to obtain a DHCP lease and fell back to an APIPA address. The Pi successfully associated with a hotspot, visible in the connected devices list with its MAC address, but no IP was ever assigned via DHCP. Configuring a static IP manually did not help either, as ARP requests to the gateway went unanswered (`<incomplete>`), preventing any L2 communication between the Pi and the rest of the network. To work around this, I enabled USB OTG by loading the `dwc2` and `g_ether` kernel modules, then connected the Pi to my PC via a USB data cable (micro-USB port, not PWR IN), which exposed a `usb0` network interface on both ends. This allowed me to reach the Pi's web server directly over USB without relying on WiFi at all.
 
 ### Find the boot partition device
-```
+```sh
 cat /proc/partitions
 ```
 
 ### Then mount the FAT32 partition (usually mmcblk0p1)
-```
+```sh
 mkdir -p /mnt/boot
 mount /dev/mmcblk0p1 /mnt/boot
 ```
 
 ### Verify
-```
+```sh
 ls /mnt/boot
 cat /mnt/boot/config.txt
 ```
 
 ### Add dwc2 to config
-```
+```sh
 echo "dtoverlay=dwc2" >> /mnt/boot/config.txt
 ```
 
 ### Create a script in /etc/init.d/ that loads the dwc2 and g_ether kernel modules
-```
+```sh
 cat > /etc/init.d/S99usbgadget << 'EOF'
 #!/bin/sh
 modprobe dwc2
@@ -47,17 +47,17 @@ EOF
 ```
 
 ### Make the init script executable
-```
+```sh
 chmod +x /etc/init.d/S99usbgadget
 ```
 
 ### Then reboot
-```
+```sh
 reboot
 ```
 
 ### Set Pi zero static IP on usb0 and bring the new interface up
-```
+```sh
 ip addr add 192.168.7.2/24 dev usb0
 ip link set usb0 up
 ```
