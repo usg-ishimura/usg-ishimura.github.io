@@ -6,7 +6,7 @@ image: https://github.com/user-attachments/assets/aa34c041-5014-4da5-894b-8cbde2
 ---
 # Fixing DHCP Failure on Raspberry Pi Zero 2 W with USB Gadget Mode (IoT Hacking Lab)
 
-I recently purchased a raspberry pi zero 2W specifically to follow the IoT and hardware hacking blog post series at [<ins>https://tcm-sec.com/getting-started-with-iot-hardware-hacking/</ins>](https://tcm-sec.com/getting-started-with-iot-hardware-hacking/). My setup includes a Rasbperry Pi with male header pins soldered to the board, a 32GB micro SD card, a USB to micro USB data cable, a UART to USB adapter and my Debian Notebook.
+I recently purchased a raspberry pi zero 2W specifically to follow the IoT and hardware hacking blog post series at [<ins>https://tcm-sec.com/getting-started-with-iot-hardware-hacking/</ins>](https://tcm-sec.com/getting-started-with-iot-hardware-hacking/). My setup includes a Rasbperry Pi with male header pins soldered to the board, a 32GB micro SD card, a USB to micro USB data cable, female to female jumper wires, a UART to USB adapter and my Debian Notebook.
 
 Here a picture of my setup:
 
