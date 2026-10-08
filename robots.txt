@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alessandroideo.com/sitemap.xml
+Sitemap: https://usg-ishimura.github.io/sitemap.xml
